@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "array_update_elements",
+      "request": "launch",
+      "mainClass": "array_update_elements.array_update_elements",
+      "projectName": "dsa-codes-c-java-and-python_43471cc0"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
