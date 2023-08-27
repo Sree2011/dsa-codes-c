@@ -25,6 +25,5 @@ int main(){
     display_array(A,n);
     printf("After update\n");
     array_update(A,n,k,item);
-    
 
     }
