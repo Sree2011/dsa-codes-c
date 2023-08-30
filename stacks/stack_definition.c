@@ -6,7 +6,5 @@ void stack_array_push(int stack_array[]){
     if(isFull(stack_array)){
         return -1;
     }
-    else{
-        stack_array.append
-    }
+   
 }
