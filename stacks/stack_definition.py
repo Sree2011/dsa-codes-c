@@ -11,7 +11,6 @@ class Stack_python:
         else:
             self.top +=1
             self.stack[self.top] = item
-            
 
     def topele(self):
         return self.stack[self.top]
