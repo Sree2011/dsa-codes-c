@@ -30,7 +30,6 @@ class Stack_python:
         return len(self.stack)
 
 d1 = Stack_python()
-
 for i in range (1,11):
    d1.push(i)
 print("Is stack empty:", d1.isEmpty())
