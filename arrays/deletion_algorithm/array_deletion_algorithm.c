@@ -1,6 +1,6 @@
 /*
  * Here A is a linear array with N elements and k is a positive integer
- * such that k <= N. This algorithm inserts an element item into kth
+ * such that k <= N. This algorithm deletes an element item from kth
  * position of A.
  */
 
