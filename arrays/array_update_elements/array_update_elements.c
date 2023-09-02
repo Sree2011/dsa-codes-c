@@ -1,3 +1,9 @@
+/**
+ * this code updates the element at a particular
+ * index in an array in C language
+ * 
+ */
+
 #include<stdio.h>
 void display_array(int A[],int n);
 void array_update(int A[],int n,int k,int item){
