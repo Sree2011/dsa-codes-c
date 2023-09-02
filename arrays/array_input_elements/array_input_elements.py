@@ -1,3 +1,10 @@
+"""
+ * this code takes the elements of array as input
+ * using different methods in python language
+ * 
+ """
+
+
 import numpy as np
 
 class array_input_elements:
