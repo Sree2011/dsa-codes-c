@@ -1,3 +1,9 @@
+/**
+ * this code takes the elements of array as input
+ * using different methods in Java language
+ * 
+ */
+
 package array_input_elements;
 import java.util.*;
 public class array_input_elements{
