@@ -1,3 +1,9 @@
+/**
+ * this code updates the element at a particular
+ * index in an array in Java language
+ * 
+ */
+
 package array_update_elements;
 
 public class array_update_elements {
