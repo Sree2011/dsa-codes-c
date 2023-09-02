@@ -1,3 +1,9 @@
+"""
+ * this code defines an array using 
+ * different methods in python language
+ * 
+ """
+
 import numpy as np
 
 class array_definition:
