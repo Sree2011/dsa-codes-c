@@ -1,4 +1,10 @@
-#include<stdio.h>
+/**
+ * this code takes the elements of array as input
+ * using different methods in C language
+ * 
+ */
+
+#include <stdio.h>
 void arr_inp(int *a,int n){
     
     //take elements of array as input
