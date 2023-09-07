@@ -1,3 +1,9 @@
+"""
+ * this code updates the element at a particular
+ * index in an array in python language
+ * 
+ """
+
 class array_update_elements:
     def __init__(self, A1,k,item):
         self.A1 = A1

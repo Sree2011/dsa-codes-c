@@ -1,3 +1,9 @@
+/*
+ * Here A is a linear array with N elements and k is a positive integer
+ * such that k <= N. This algorithm deletes an element item from kth
+ * position of A.
+ */
+
 #include<stdio.h>
 void array_deletion_algorithm(int A[], int n, int k, int item){
     //set item  to A[k]
