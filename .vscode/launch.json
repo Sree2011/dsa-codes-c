@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "array_input_elements",
+      "request": "launch",
+      "mainClass": "array_input_elements.array_input_elements",
+      "projectName": "dsa-codes-c-java-and-python_43471cc0"
+    },
+    {
+      "type": "java",
       "name": "stack_definition",
       "request": "launch",
       "mainClass": "stacks.stack_definition",
